@@ -2,16 +2,16 @@
 
 ![Fckbankscoin Splash Image](https://raw.github.com/fckbankscoin/fckbankscoin/master/src/qt/res/icons/bitcoin.png)
 
-Algorithm: Scrypt.
+Algorithm: Scrypt
 
-Total coins: 84 billion.
+Total coins: 84 billion
 
-Block reward: 100000 halves every 100000 blocks.
+Block reward: 100000 halves every 100000 blocks
 
 Kimoto's Gravity Well used for diff adjustment
 
-Blocks per day: 1800
+Blockstime: 90 seconds
 
-RPC: 21778
+RPC port: 21778
 
-P2P: 21779
+P2P port: 21779
