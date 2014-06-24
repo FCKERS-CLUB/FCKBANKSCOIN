@@ -10,7 +10,7 @@ Block reward: 100000 halves every 100000 blocks
 
 Kimoto's Gravity Well used for diff adjustment
 
-Blocktime: 90 seconds
+Blocktime: 60 seconds
 
 RPC port: 21778
 
